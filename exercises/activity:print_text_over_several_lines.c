@@ -1,3 +1,5 @@
+/*c programming:getting started*/
+/*Activity:Print text over several lines*/
 # include <stdio.h>
 int main(void){
   printf("I already know how to:\n");
